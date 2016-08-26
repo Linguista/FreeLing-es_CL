@@ -1,4 +1,4 @@
-=Chilean cities.dat files=
+# Chilean cities.dat files
 
 `cities-CL.dat` contains a list of Chilean municipalities, provinces and regions.
 
