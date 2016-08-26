@@ -1,0 +1,1 @@
+In these two files --CL.vaux.Vos-V and CL.verb.Vos-V-- verbs conjugated using the Chilean vos paradigm have POS codes which end in "V" (rather than "0") in order to distinguish them from the tú forms of the verbs, which otherwise would have identical tags.
