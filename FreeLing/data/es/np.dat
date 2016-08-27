@@ -1,5 +1,5 @@
 ## This is the configuration file for 'basic' NE recognizer.
-## Configuration files for B-I-O NE recognizer can be 
+## Configuration files for B-I-O NE recognizer can be
 ## found (if available) in nerc/nerc/ner-ab-*.dat
 <Type>
 basic
@@ -49,8 +49,11 @@ NP00000
 3
 </TitleLimit>
 <Affixes>
+dn. PRE
 don PRE
 doña PRE
+dr. PRE
+dra. PRE
 sr.  PRE
 sra. PRE
 sras. PRE
