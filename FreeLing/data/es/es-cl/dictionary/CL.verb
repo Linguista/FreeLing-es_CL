@@ -38624,7 +38624,6 @@ costuriando costurear VMG0000
 costuriará costurear VMIF3S0
 costuriara costurear VMSI1S0
 costuriara costurear VMSI3S0
-costuriar��i costurear VMIF2S0
 costuriarai costurear VMSI2S0
 costuriáramos costurear VMSI1P0
 costuriarán costurear VMIF3P0
@@ -38645,6 +38644,7 @@ costuriaríai costurear VMIC2S0
 costuriaríamos costurear VMIC1P0
 costuriarían costurear VMIC3P0
 costuriarías costurear VMIC2S0
+costuriar��i costurear VMIF2S0
 costuriaron costurear VMIS3P0
 costuriase costurear VMSI1S0
 costuriase costurear VMSI3S0
@@ -46639,9 +46639,10 @@ desgrasastes desgrasar VMIS2S0
 desgrasís desgrasar VMSP2S0
 desgravabai desgravar VMII2S0
 desgravái desgravar VMIP2S0
+desgravar��ai desgravar VMIC2S0
 desgravarái desgravar VMIF2S0
 desgravarai desgravar VMSI2S0
-desgravar��ai desgravar VMIC2S0
+desgravaríai desgravar VMIC2S0
 desgravastes desgravar VMIS2S0
 desgravís desgravar VMSP2S0
 desgreñabai desgreñar VMII2S0
@@ -49053,12 +49054,12 @@ despresé despresar VMIS1S0
 desprese despresar VMM03S0
 desprese despresar VMSP1S0
 desprese despresar VMSP3S0
-despres��is despresar VMSP2P0
 despresemos despresar VMM01P0
 despresemos despresar VMSP1P0
 despresen despresar VMM03P0
 despresen despresar VMSP3P0
 despreses despresar VMSP2S0
+despres��is despresar VMSP2P0
 despresís despresar VMSP2S0
 despreso despresar VMIP1S0
 despresó despresar VMIS3S0
@@ -56322,13 +56323,13 @@ enchamparán enchampar VMIF3P0
 enchamparan enchampar VMSI3P0
 enchamparás enchampar VMIF2S0
 enchamparas enchampar VMSI2S0
-enchampar�� enchampar VMIF1S0
 enchampare enchampar VMSF1S0
 enchampare enchampar VMSF3S0
 enchamparéis enchampar VMIF2P0
 enchampareis enchampar VMSF2P0
 enchamparemos enchampar VMIF1P0
 enchampáremos enchampar VMSF1P0
+enchampar�� enchampar VMIF1S0
 enchampar enchampar VMN0000
 enchamparen enchampar VMSF3P0
 enchampares enchampar VMSF2S0
@@ -57548,7 +57549,7 @@ enfierráremos enfierrar VMSF1P0
 enfierraren enfierrar VMSF3P0
 enfierrar enfierrar VMN0000
 enfierrares enfierrar VMSF2S0
-enfierraría enfierrar VMIC1S0
+enfierrar��a enfierrar VMIC1S0
 enfierraría enfierrar VMIC3S0
 enfierraríai enfierrar VMIC2S0
 enfierraríais enfierrar VMIC2P0
@@ -68472,6 +68473,7 @@ ganan ganar VMIP3P0
 ganará ganar VMIF3S0
 ganara ganar VMSI1S0
 ganara ganar VMSI3S0
+ganar��ai ganar VMIC2S0
 ganarái ganar VMIF2S0
 ganarai ganar VMSI2S0
 ganarais ganar VMSI2P0
@@ -68492,7 +68494,7 @@ ganares ganar VMSF2S0
 ganar ganar VMN0000
 ganaría ganar VMIC1S0
 ganaría ganar VMIC3S0
-ganar��ai ganar VMIC2S0
+ganaríai ganar VMIC2S0
 ganaríais ganar VMIC2P0
 ganaríamos ganar VMIC1P0
 ganarían ganar VMIC3P0
@@ -71314,7 +71316,7 @@ guaraquiada guaraquear VMP00SF
 guaraquiadas guaraquear VMP00PF
 guaraquiado guaraquear VMP00SM
 guaraquiados guaraquear VMP00PM
-guaraquiái guaraquear VMIP2S0
+guaraqui��i guaraquear VMIP2S0
 guaraquiamos guaraquear VMIP1P0
 guaraquiamos guaraquear VMIS1P0
 guaraquiando guaraquear VMG0000
@@ -77815,9 +77817,10 @@ juro jurar VMIP1S0
 juró jurar VMIS3S0
 justabai justar VMII2S0
 justái justar VMIP2S0
-justar��i justar VMIF2S0
+justarái justar VMIF2S0
 justarai justar VMSI2S0
 justaríai justar VMIC2S0
+justar��i justar VMIF2S0
 justastes justar VMIS2S0
 justificabai justificar VMII2S0
 justificái justificar VMIP2S0
@@ -81722,7 +81725,7 @@ malenseñarái malenseñar VMIF2S0
 malenseñarai malenseñar VMSI2S0
 malenseñarais malenseñar VMSI2P0
 malenseñará malenseñar VMIF3S0
-malenseñara malenseñar VMSI1S0
+malenseñara malense��ar VMSI1S0
 malenseñara malenseñar VMSI3S0
 malenseñáramos malenseñar VMSI1P0
 malenseñarán malense��ar VMIF3P0
@@ -85306,7 +85309,7 @@ matiarán matear VMIF3P0
 matiaran matear VMSI3P0
 matiarás matear VMIF2S0
 matiaras matear VMSI2S0
-matiaré matear VMIF1S0
+matiar�� matear VMIF1S0
 matiare matear VMSF1S0
 matiare matear VMSF3S0
 matiaremos matear VMIF1P0
@@ -90885,7 +90888,6 @@ pachanguea pachanguear VMM02S0
 pachanguearái pachanguear VMIF2S0
 pachanguearai pachanguear VMSI2S0
 pachanguearais pachanguear VMSI2P0
-pachangue��ramos pachanguear VMSI1P0
 pachanguearán pachanguear VMIF3P0
 pachanguearan pachanguear VMSI3P0
 pachangueará pachanguear VMIF3S0
@@ -90934,6 +90936,7 @@ pachanguees pachanguear VMSP2S0
 pachangueís pachanguear VMSP2S0
 pachangueo pachanguear VMIP1S0
 pachangueó pachanguear VMIS3S0
+pachangue��ramos pachanguear VMSI1P0
 pachanguiabai pachanguear VMII2S0
 pachanguiábamos pachanguear VMII1P0
 pachanguiaban pachanguear VMII3P0
@@ -101002,7 +101005,7 @@ produciré producir VMIF1S0
 produciríai producir VMIC2S0
 produciríais producir VMIC2P0
 produciríamos producir VMIC1P0
-producirían producir VMIC3P0
+producir��an producir VMIC3P0
 produciría producir VMIC1S0
 produciría producir VMIC3S0
 producirías producir VMIC2S0
@@ -109499,7 +109502,7 @@ retrogradarái retrogradar VMIF2S0
 retrogradarai retrogradar VMSI2S0
 retrogradaríai retrogradar VMIC2S0
 retrogradastes retrogradar VMIS2S0
-retrogradís retrogradar VMSP2S0
+retrograd��s retrogradar VMSP2S0
 retrotraerái retrotraer VMIF2S0
 retrotraeríai retrotraer VMIC2S0
 retrotraíai retrotraer VMII2S0
@@ -109638,7 +109641,7 @@ reverberastes reverberar VMIS2S0
 reverberís reverberar VMSP2S0
 reverdecerái reverdecer VMIF2S0
 reverdeceríai reverdecer VMIC2S0
-reverdecíai reverdecer VMII2S0
+reverdec��ai reverdecer VMII2S0
 reverdecierai reverdecer VMSI2S0
 reverdecís reverdecer VMIP2S0
 reverdecistes reverdecer VMIS2S0
@@ -111795,6 +111798,7 @@ segurizarais segurizar VMSI2P0
 segurizáramos segurizar VMSI1P0
 segurizarán segurizar VMIF3P0
 segurizaran segurizar VMSI3P0
+segurizar��a segurizar VMIC1S0
 segurizará segurizar VMIF3S0
 segurizara segurizar VMSI1S0
 segurizara segurizar VMSI3S0
@@ -111813,7 +111817,6 @@ segurizaríai segurizar VMIC2S0
 segurizaríais segurizar VMIC2P0
 segurizaríamos segurizar VMIC1P0
 segurizarían segurizar VMIC3P0
-segurizar��a segurizar VMIC1S0
 segurizaría segurizar VMIC3S0
 segurizarías segurizar VMIC2S0
 segurizaron segurizar VMIS3P0
@@ -113142,7 +113145,7 @@ sobrestimarái sobrestimar VMIF2S0
 sobrestimarai sobrestimar VMSI2S0
 sobrestimaríai sobrestimar VMIC2S0
 sobrestimastes sobrestimar VMIS2S0
-sobrestimís sobrestimar VMSP2S0
+sobrestim��s sobrestimar VMSP2S0
 sobrevalorabai sobrevalorar VMII2S0
 sobrevalorái sobrevalorar VMIP2S0
 sobrevalorarái sobrevalorar VMIF2S0
@@ -118379,9 +118382,10 @@ tranzaríai tranzar VMIC2S0
 tranzastes tranzar VMIS2S0
 trapaceabai trapacear VMII2S0
 trapaceái trapacear VMIP2S0
-trapacear��i trapacear VMIF2S0
+trapacearái trapacear VMIF2S0
 trapacearai trapacear VMSI2S0
 trapacearíai trapacear VMIC2S0
+trapacear��i trapacear VMIF2S0
 trapaceastes trapacear VMIS2S0
 trapaceís trapacear VMSP2S0
 trapaleabai trapalear VMII2S0
@@ -121328,7 +121332,6 @@ versiando versear VMG0000
 versiarái versear VMIF2S0
 versiarai versear VMSI2S0
 versiáramos versear VMSI1P0
-versiar��n versear VMIF3P0
 versiaran versear VMSI3P0
 versiarás versear VMIF2S0
 versiaras versear VMSI2S0
@@ -121348,6 +121351,7 @@ versiarían versear VMIC3P0
 versiarías versear VMIC2S0
 versiaría versear VMIC1S0
 versiaría versear VMIC3S0
+versiar��n versear VMIF3P0
 versiaron versear VMIS3P0
 versiar versear VMN0000
 versiásemos versear VMSI1P0
