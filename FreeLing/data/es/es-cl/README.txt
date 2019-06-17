@@ -39,3 +39,10 @@ return instances of "a través de" because this is lemmatized as "a_través_de".
 Therefore, the locucions.dat file has been trimmed down to the bare minimum. The
 original Chilean Spanish MWP file is still available as "locucions-COMPLETE.dat".
 
+
+################################################################################
+# probabilitats.dat
+################################################################################
+This file contains just a few modifications of the previous version - "hm" and
+"mm" as interjections now have higher probabilities of being an interjection
+rather than "hectómetro" and "milímetro".
