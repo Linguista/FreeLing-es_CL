@@ -1,0 +1,37 @@
+<DecompositionRules>
+A 2 A type/O:ord;Q:qua;P:pos degree/S:superlative;V:evaluative gen/F:feminine;M:masculine;C:common num/S:singular;P:plural;N:invariable possessorpers/1:1;2:2;3:3 possessornum/S:singular;P:plural;N:invariable
+C 2 C type/C:coo;S:sub
+D 2 D type/A:art;D:dem;I:ind;P:pos;T:int;E:exc person/1:1;2:2;3:3 gen/F:feminine;M:masculine;C:common num/S:singular;P:plural;N:invariable possessornum/S:singular;P:plural;N:invariable
+N 2 N type/C:com;P:prp gen/F:feminine;M:masculine;C:common num/S:singular;P:plural;N:invariable neclass/S:person;G:location;O:organization;V:other nesubclass/0:0;P:0 degree/V:evaluative
+P 2 P type/D:dem;E:exc;I:ind;P:per;R:rel;T:int person/1:1;2:2;3:3 gen/F:feminine;M:masculine;C:common num/S:singular;P:plural;N:invariable case/N:nominative;A:accusative;D:dative;O:oblique polite/P:yes;V:voseo
+R 2 R type/N:neg;G:gen
+S 2 S type/P:pre
+V 3 V type/M:mai;A:aux;S:sem mood/I:indicative;S:subjunctive;M:imperative;P:participle;G:gerund;N:infinitive tense/P:present;I:imperfect;F:future;S:past;C:conditional person/1:1;2:2;3:3 num/S:singular;P:plural gen/F:feminine;M:masculine;C:common;V:voseo
+Z 2 Z type/D:par;M:cur;P:pct;U:uni
+W 0 W
+I 0 I
+</DecompositionRules>
+<DirectTranslations>
+Fc Fc pos=F|type=cmm
+Fs Fs pos=F|type=etc
+Fd Fd pos=F|type=cln
+Fx Fx pos=F|type=scl
+Fg Fg pos=F|type=hyp
+Fe Fe pos=F|type=quo
+Fh Fh pos=F|type=sls
+Fp Fp pos=F|type=prd
+Fia Fia pos=F|type=qmk|punctenclose=open
+Fit Fit pos=F|type=qmk|punctenclose=close
+Faa Faa pos=F|type=emk|punctenclose=open
+Fat Fat pos=F|type=emk|punctenclose=close
+Ft Ft pos=F|type=pct
+Fla Fla pos=F|type=cbr|punctenclose=open
+Flt Flt pos=F|type=cbr|punctenclose=close
+Fca Fca pos=F|type=sbr|punctenclose=open
+Fct Fct pos=F|type=sbr|punctenclose=close
+Fpa Fpa pos=F|type=prn|punctenclose=open
+Fpt Fpt pos=F|type=prn|punctenclose=close
+Fra Fra pos=F|type=quo|punctenclose=open
+Frc Frc pos=F|type=quo|punctenclose=close
+Fz Fz pos=F|type=oth
+</DirectTranslations>
