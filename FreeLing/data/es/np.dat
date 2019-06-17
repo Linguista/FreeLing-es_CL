@@ -53,9 +53,9 @@ NP00000
 dn. PRE
 don PRE
 doña PRE
-dn. PRE
 dr. PRE
 dra. PRE
+mg. PRE
 sr.  PRE
 sra. PRE
 sras. PRE
@@ -67,30 +67,16 @@ jr. SUF
 <Ignore>
 </Ignore>
 <Names>
-amara
 asad
 blanca
-blanco
-bruce
 carmen
-china
-corriere
-giro
-herrera
 junta
-mayor
-miró
 parís
 pelé
 piqué
 riera
-rojo
-soler
 time
 times
-unió
-zapatero
-miren
 </Names>
 <SplitMultiwords>
 no
