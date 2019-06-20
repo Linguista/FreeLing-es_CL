@@ -1,20 +1,20 @@
 AFP AFP NCFP000
 AFP AFP NCFS000
 GCU GCU NCFS000
-NN NN NCMP000
-NN NN NCMS000
+NEM NEM NCMS000
+PIB PIB NCMS000
 U universidad NCFS000
 Ues universidad NCFP000
 abanderizaciones abanderización NCFP000
 abanderización abanderización NCFS000
 abanderizamiento abanderizamiento NCMS000
 abanderizamientos abanderizamiento NCMP000
+abarrote abarrotes NCMS000
 abarrotera abarrotero NCFS000
 abarroteras abarrotero NCFP000
 abarrotero abarrotero NCMS000
 abarroteros abarrotero NCMP000
 abarrotes abarrotes NCMP000
-abarrote abarrotes NCMS000
 abastera abastero NCFS000
 abasteras abastero NCFP000
 abastero abastero NCMS000
@@ -1363,6 +1363,7 @@ buza buzo NCFS000
 buzas buzo NCFP000
 buzo buzo NCMS000
 buzos buzo NCMP000
+básquet básquetbol NCMS000
 básquetbol básquetbol NCMS000
 básquetboles básquetbol NCMP000
 cabalera cabalero NCFS000
@@ -2570,6 +2571,8 @@ chañas chaño NCFP000
 chaño chaño NCMS000
 chaños chaño NCMP000
 che che NCMS000
+chef chef NCMS000
+chef chefs NCMP000
 chela chela NCFS000
 chelas chela NCCP000
 chelera chelero NCFS000
@@ -3471,6 +3474,7 @@ colizones colizón NCMP000
 colizón colizón NCMS000
 colla colla NCFS000
 collas colla NCCP000
+college college NCMS000
 collera collera NCFS000
 colleras collera NCCP000
 collerea collereo NCFS000
@@ -4629,6 +4633,8 @@ embolsicamiento embolsicamiento NCMS000
 embolsicamientos embolsicamiento NCMP000
 emboque emboque NCMS000
 emboques emboque NCMP000
+emo emo NCCS000
+emos emos NCCP000
 empanada empanada NCFS000
 empanadas empanada NCCP000
 empapelada empapelada NCFS000
@@ -5157,6 +5163,8 @@ flacuchentos flacuchento NCMP000
 flaita flaite NCFS000
 flaitas flaite NCFP000
 flaite flaite NCMS000
+flaiterismo flaiterismo NCMS000
+flaiterismos flaiterismo NCMP000
 flaitería flaitería NCFS000
 flaitería flaiterío NCFS000
 flaiterías flaitería NCCP000
@@ -6816,6 +6824,8 @@ laque laque NCMS000
 laques laque NCMP000
 largona largona NCFS000
 largonas largona NCCP000
+lata lata NCFS000
+latas lata NCFP000
 latera latero NCFS000
 lateras latero NCFP000
 latero latero NCMS000
@@ -6868,6 +6878,8 @@ leonas león NCFP000
 leones león NCMP000
 lesa leso NCFS000
 lesas leso NCFP000
+lesbiana lesbiana NCFS000
+lesbianas lesbiana NCFP000
 lesea leseo NCFS000
 leseas leseo NCFP000
 leseo leseo NCMS000
@@ -7561,6 +7573,10 @@ mapuche mapuche NCCS000
 mapuchería mapuchería NCFS000
 mapucherías mapuchería NCCP000
 mapuches mapuche NCCS000
+mapuchita mapuche NCFS000
+mapuchitas mapuche NCFP000
+mapuchito mapuche NCMS000
+mapuchitos mapuche NCMP000
 mapucista mapucista NCFS000
 mapucista mapucista NCMS000
 mapucistas mapucista NCMP000
@@ -8464,7 +8480,7 @@ nalca nalca NCFS000
 nalcas nalca NCCP000
 nana nana NCFS000
 nanaies nanái NCMP000
-nanas nana NCCP000
+nanas nana NCFP000
 nanái nanái NCMS000
 napoleona napoleón NCFS000
 napoleonas napoleón NCFP000
@@ -8892,12 +8908,10 @@ papayera papayero NCFS000
 papayeras papayero NCFP000
 papayero papayero NCMS000
 papayeros papayero NCMP000
-pape pape NCMS000
 papelilla papelillo NCFS000
 papelillas papelillo NCFP000
 papelillo papelillo NCMS000
 papelillos papelillo NCMP000
-papes pape NCMP000
 papicha papiche NCFS000
 papichas papiche NCFP000
 papiche papiche NCMS000
@@ -10177,6 +10191,8 @@ platuda platudo NCFS000
 platudas platudo NCFP000
 platudo platudo NCMS000
 platudos platudo NCMP000
+play play NCMS000
+plays play NCMP000
 ploma plomo NCFS000
 plomas plomo NCFP000
 plomo plomo NCMS000
@@ -10219,14 +10235,10 @@ polcas polca NCCP000
 polcas polcas NCMP000
 polcas polcas NCMS000
 polera polera NCFS000
-polera polero NCFS000
 poleras polera NCCP000
-poleras polero NCFP000
-polero polero NCMS000
 polerona polerón NCFS000
 poleronas polerón NCFP000
 polerones polerón NCMP000
-poleros polero NCMP000
 polerón polerón NCMS000
 poli poli NCMS000
 policlínica policlínico NCFS000
@@ -10429,10 +10441,12 @@ preta prete NCFS000
 pretas prete NCFP000
 prete prete NCMS000
 pretes prete NCMP000
+preu preuniversitario NCMS000
 preuniversitaria preuniversitario NCFS000
 preuniversitarias preuniversitario NCFP000
 preuniversitario preuniversitario NCMS000
 preuniversitarios preuniversitario NCMP000
+preus preuniversitario NCMP000
 prieta prieta NCFS000
 prietas prieta NCCP000
 primavera primavera NCFS000
@@ -10489,6 +10503,8 @@ prueba pruebe NCFS000
 pruebas pruebe NCFP000
 pruebe pruebe NCMS000
 pruebes pruebe NCMP000
+préu preuniversitario NCMS000
+préus preuniversitario NCMP000
 príncipa príncipe NCFS000
 príncipas príncipe NCFP000
 príncipe príncipe NCMS000
@@ -10569,6 +10585,8 @@ punguerío punguerío NCMS000
 pungueríos punguerío NCMP000
 puntada puntada NCFS000
 puntadas puntada NCCP000
+puntaje puntaje NCMS000
+puntajes puntaje NCMP000
 puntea punteo NCFS000
 punteada punteada NCFS000
 punteadas punteada NCCP000
@@ -10986,6 +11004,8 @@ rasquetea rasqueteo NCFS000
 rasqueteas rasqueteo NCFP000
 rasqueteo rasqueteo NCMS000
 rasqueteos rasqueteo NCMP000
+rasta rasta NCCS000
+rastas rasta NCCP000
 rastrojea rastrojeo NCFS000
 rastrojeas rastrojeo NCFP000
 rastrojeo rastrojeo NCMS000
@@ -11135,6 +11155,7 @@ regalones regalón NCMP000
 regalonía regalonía NCFS000
 regalonías regalonía NCCP000
 regalón regalón NCMS000
+reggaetón reggaetón NCMS000
 regiona región NCFS000
 regionalizaciones regionalización NCMP000
 regionalización regionalización NCMS000
@@ -11785,6 +11806,8 @@ siútica siútico NCFS000
 siúticas siútico NCFP000
 siútico siútico NCMS000
 siúticos siútico NCMP000
+snowboard snowboard NCMS000
+snowboards snowboard NCMP000
 so so NCMS000
 soberada soberado NCFS000
 soberadas soberado NCFP000
@@ -11863,6 +11886,7 @@ sticker sticker NCMS000
 stickera sticker NCFS000
 stickeras sticker NCFP000
 stickeres sticker NCMP000
+stickers sticker NCMP000
 stud stud NCMP000
 stud stud NCMS000
 subcomisaria subcomisario NCFS000
@@ -12868,6 +12892,10 @@ vedettas vedetto NCFP000
 vedetto vedetto NCMS000
 vedettos vedetto NCMP000
 vega vega NCFS000
+vegana vegano NCFS000
+veganas vegano NCFP000
+vegano vegano NCMS000
+veganos vegano NCMP000
 vegas vega NCCP000
 veguina veguino NCFS000
 veguinas veguino NCFP000
@@ -13321,6 +13349,7 @@ zépelins zépelin NCMP000
 ñatos ñato NCMP000
 ñaña ñaña NCFS000
 ñañas ñaña NCCP000
+ñañas ñaña NCFP000
 ñecla ñecla NCFS000
 ñeclas ñecla NCCP000
 ñeclona ñeclón NCFS000
