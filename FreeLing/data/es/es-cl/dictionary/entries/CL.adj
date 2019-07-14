@@ -1266,6 +1266,12 @@ chúcara chúcaro AQ0FS00
 chúcaras chúcaro AQ0FP00
 chúcaro chúcaro AQ0MS00
 chúcaros chúcaro AQ0MP00
+ciber ciber AQ0FP00
+ciber ciber AQ0FS00
+ciber ciber AQ0MP00
+ciber ciber AQ0MS00
+cibers ciber AQ0FP00
+cibers ciber AQ0MP00
 cimarrera cimarrero AQ0FS00
 cimarreras cimarrero AQ0FP00
 cimarrero cimarrero AQ0MS00
@@ -1440,6 +1446,7 @@ conventillera conventillero AQ0FS00
 conventilleras conventillero AQ0FP00
 conventillero conventillero AQ0MS00
 conventilleros conventillero AQ0MP00
+cool cool AQ0CN00
 copetera copetero AQ0FS00
 copeteras copetero AQ0FP00
 copetero copetero AQ0MS00
@@ -1484,6 +1491,7 @@ coñeta coñete AQ0FS00
 coñetas coñete AQ0FP00
 coñete coñete AQ0CS00
 coñetes coñete AQ0CP00
+creepy creepy AQ0CN00
 crestona crestón AQ0FS00
 crestonas crestón AQ0FP00
 crestones crestón AQ0MP00
@@ -1618,6 +1626,8 @@ densa denso AQ0FS00
 densas denso AQ0FP00
 denso denso AQ0MS00
 densos denso AQ0MP00
+depre depre AQ0CS00
+depres depre AQ0CP00
 descalificador descalificador AQ0MS00
 descalificadora descalificador AQ0FS00
 descalificadoras descalificador AQ0FP00
@@ -1898,6 +1908,10 @@ festivalera festivalero AQ0FS00
 festivaleras festivalero AQ0FP00
 festivalero festivalero AQ0MS00
 festivaleros festivalero AQ0MP00
+feíta feíto AQ0FS00
+feítas feíto AQ0FP00
+feíto feíto AQ0MS00
+feítos feíto AQ0MP00
 fijada fijado AQ0FS00
 fijadas fijado AQ0FP00
 fijado fijado AQ0MS00
@@ -2145,6 +2159,8 @@ gorreada gorreado AQ0FS00
 gorreadas gorreado AQ0FP00
 gorreado gorreado AQ0MS00
 gorreados gorreado AQ0MP00
+gourmet gourmet AQ0CS00
+gourmets gourmet AQ0CP00
 granata granate AQ0FS00
 granatas granate AQ0FP00
 granate granate AQ0CS00
@@ -2285,6 +2301,8 @@ hallullera hallullero AQ0FS00
 hallulleras hallullero AQ0FP00
 hallullero hallullero AQ0MS00
 hallulleros hallullero AQ0MP00
+hardcore hardcore AQ0CP00
+hardcore hardcore AQ0CS00
 hechiza hechizo AQ0FS00
 hechizas hechizo AQ0FP00
 hechizo hechizo AQ0MS00
@@ -2458,6 +2476,8 @@ intercoaliciones intercoalición AQ0MP00
 intercoalición intercoalición AQ0MS00
 intercomunal intercomunal AQ0CS00
 intercomunales intercomunal AQ0CP00
+intrafamiliar intrafamiliar AQ0CS00
+intrafamiliares intrafamiliar AQ0CP00
 intruseta intrusete AQ0FS00
 intrusetas intrusete AQ0FP00
 intrusete intrusete AQ0CS00
@@ -2562,6 +2582,8 @@ lafquencha lafquenche AQ0FS00
 lafquenchas lafquenche AQ0FP00
 lafquenche lafquenche AQ0CS00
 lafquenches lafquenche AQ0CP00
+lais lais AQ0CP00
+lais lais AQ0CS00
 lanera lanero AQ0FS00
 laneras lanero AQ0FP00
 lanero lanero AQ0MS00
@@ -2678,6 +2700,8 @@ loína loíno AQ0FS00
 loínas loíno AQ0FP00
 loíno loíno AQ0MS00
 loínos loíno AQ0MP00
+láis lais AQ0CP00
+láis lais AQ0CS00
 macabea macabeo AQ0FS00
 macabeas macabeo AQ0FP00
 macabeo macabeo AQ0MS00
@@ -3034,6 +3058,10 @@ mierdoso mierdoso AQ0MS00
 mierdosos mierdoso AQ0MP00
 mija mija AQ0CS00
 mijas mija AQ0CP00
+milica milico AQ0FS00
+milicas milico AQ0FP00
+milico milico AQ0MS00
+milicos milico AQ0MP00
 milonguera milonguero AQ0FS00
 milongueras milonguero AQ0FP00
 milonguero milonguero AQ0MS00
@@ -3492,6 +3520,7 @@ pavuncia pavuncio AQ0FS00
 pavuncias pavuncio AQ0FP00
 pavuncio pavuncio AQ0MS00
 pavuncios pavuncio AQ0MP00
+peak peak AQ0CN00
 pechador pechador AQ0MS00
 pechadora pechador AQ0FS00
 pechadoras pechador AQ0FP00
@@ -3926,6 +3955,7 @@ potras potro AQ0FP00
 potro potro AQ0MS00
 potros potro AQ0MP00
 potón potón AQ0MS00
+power power AQ0CN00
 precordillerana precordillerano AQ0FS00
 precordilleranas precordillerano AQ0FP00
 precordillerano precordillerano AQ0MS00
@@ -4595,8 +4625,11 @@ trancada trancado AQ0FS00
 trancadas trancado AQ0FP00
 trancado trancado AQ0MS00
 trancados trancado AQ0MP00
+tranqui tranqui AQ0CP00
+tranqui tranqui AQ0CS00
 tranquiléin tranquiléin AQ0CP00
 tranquiléin tranquiléin AQ0CS00
+tranquis tranqui AQ0CP00
 transandina transandino AQ0FS00
 transandinas transandino AQ0FP00
 transandino transandino AQ0MS00
