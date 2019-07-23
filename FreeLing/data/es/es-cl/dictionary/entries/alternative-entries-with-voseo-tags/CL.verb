@@ -99375,6 +99375,8 @@ podarai podar VMSI2SV
 podarái podar VMIF2SV
 podaríai podar VMIC2SV
 podastes podar VMIS2SV
+podái podar VMIP2SV
+podís podar VMSP2SV
 podrecerái podrecer VMIF2SV
 podreceríai podrecer VMIC2SV
 podrecierai podrecer VMSI2SV
@@ -99387,8 +99389,6 @@ podríai poder VMIC2SV
 podái podar VMIP2SV
 podái poder VMSP2SV
 podíai poder VMII2SV
-podís podar VMSP2SV
-podís poder VMIP2SV
 poeticís poetizar VMSP2SV
 poetizabai poetizar VMII2SV
 poetizarai poetizar VMSI2SV
