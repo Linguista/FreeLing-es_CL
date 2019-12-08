@@ -11,7 +11,7 @@ include the following:
 - The 6th column tags are now 3-lower-case-letter POS sub-tags.
 
 If you use the CL.tanc.Vos-V, CL.vaux.Vos-V and CL.verb.Vos-V dictionary files
-(in which voseo verb POS tags and the "vos" pronount tag have a final "V"), then
+(in which voseo verb POS tags and the "vos" pronoun tag have a final "V"), then
 you have two options:
 
     - Use this modified tagset.dat file, which will avoid error messages when
